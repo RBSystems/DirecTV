@@ -1,0 +1,10 @@
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\bin\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\bin\DirecTV.pdb
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\obj\Debug\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\obj\Debug\DirecTV.pdb
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\bin\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\bin\DirecTV.pdb
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\obj\Debug\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\obj\Debug\DirecTV.pdb

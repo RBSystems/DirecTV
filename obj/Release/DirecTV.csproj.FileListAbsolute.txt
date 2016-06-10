@@ -1,0 +1,8 @@
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\bin\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV OLD\DirecTV\obj\Release\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\bin\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\bin\SimplSharpHelperInterface.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\obj\Release\DirecTV.dll
+C:\Users\mthyden\Dropbox\Projects\SIMPL#\DirecTV\DirecTV\bin\SimplSharpCustomAttributesInterface.dll
